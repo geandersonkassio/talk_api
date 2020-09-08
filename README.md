@@ -37,6 +37,12 @@ php artisan migrate && php artinsa db:seed
 php -S localhost:8000 -t public
 ```
 
+### User teste
+```
+name: maria@dimensao.com.br
+password:1234
+```
+
 ### [POSTMAN] Collection with the requests available in the api
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/edd61859a22797244aeb)
